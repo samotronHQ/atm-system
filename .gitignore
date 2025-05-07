@@ -1,0 +1,5 @@
+*.exe
+*.txt
+!README.md
+!*.c
+!*.h
