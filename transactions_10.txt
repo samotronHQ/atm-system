@@ -1,4 +1,0 @@
-[Wed May 07 11:58:44 2025
-] Deposit: 120.00 | Balance: 120.00
-[Wed May 07 11:58:52 2025
-] Withdrawal: 23.00 | Balance: 97.00
